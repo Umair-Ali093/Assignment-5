@@ -1,0 +1,33 @@
+ h1{
+    text-align: center;
+    
+}
+
+#div1 {
+    width:800px;
+    height:50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11px;
+    background-color: darkgray;
+   
+}
+#div2{
+    width: 850px;
+    height: 1000px;
+    background-color: blueviolet;
+    float:left;
+}
+#div3{
+     width: 650px;
+    height: 400px;
+    background-color: lightgreen;
+    float:right;
+}
+#div4{
+    width: 650px;
+    height: 600px;
+    background-color: orange;
+    float:right; 
+    margin-bottom: 21px;
+}
